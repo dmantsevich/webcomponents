@@ -1,0 +1,20 @@
+{
+  "name": "@dmantsevich/webcomponents",
+  "version": "1.0.0",
+  "description": "Just Universal and Useful Web Components. Nothing else. Zero dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webcomponent",
+    "js",
+    "web",
+    "browser",
+    "component",
+    "component-extension",
+    "zero-dependency"
+  ],
+  "author": "dmantsevich",
+  "license": "ISC"
+}
