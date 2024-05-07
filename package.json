@@ -16,5 +16,8 @@
     "zero-dependency"
   ],
   "author": "dmantsevich",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "throttle-debounce": "^5.0.0"
+  }
 }
